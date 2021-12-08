@@ -32,3 +32,8 @@ knitr::kable(
   booktabs = TRUE
 )
 ```
+
+```{r}
+plot(mtcars)
+```
+
